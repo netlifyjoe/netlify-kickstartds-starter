@@ -38,7 +38,7 @@ sections:
           Learn more about this starter, and the the speed & scalability
           provided by our headless CMS powered websites.
   - type: section
-    width: default
+    width: full
     style: default
     backgroundColor: default
     spotlight: false
