@@ -4,7 +4,7 @@ title: getting-started
 sections:
   - type: section
     headerSpacing: true
-    style: horizontalGradient
+    style: stagelights
     spaceAfter: small
     headline:
       large: true
