@@ -61,7 +61,7 @@ sections:
     components:
       - type: features
         layout: smallTiles
-        style: ''
+        style: centered
         ctas:
           toggle: true
           style: button
