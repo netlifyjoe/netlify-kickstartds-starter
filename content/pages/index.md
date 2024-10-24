@@ -58,6 +58,63 @@ sections:
       mode: tile
       tileWidth: default
     buttons: []
+    components:
+      - type: features
+        layout: smallTiles
+        style: stack
+        ctas:
+          toggle: true
+          style: button
+        feature:
+          - type: feature
+            icon: person
+            title: Consistent UI
+            text: >-
+              Achieve a consistent UI across different platforms. Our design
+              system ensures your applications maintain a uniform look and feel.
+            style: stack
+            cta:
+              target: /feature3
+              label: Explore
+              toggle: true
+              style: link
+          - type: feature
+            icon: star
+            title: Customizable Design
+            text: >-
+              Our design system is fully customizable, allowing you to tailor
+              the look and feel of your application to match your brand
+              identity.
+            style: stack
+            cta:
+              target: /feature4
+              label: Customize
+              toggle: true
+              style: link
+          - type: feature
+            icon: upload
+            title: Cloud Ready
+            text: >-
+              Built with modern cloud architectures in mind, our design system
+              is ready to be deployed on any cloud platform.
+            style: stack
+            cta:
+              target: /feature5
+              label: Deploy
+              toggle: true
+              style: link
+          - type: feature
+            icon: login
+            title: Secure
+            text: >-
+              Security is our priority. Our design system is built with best
+              security practices to keep your application safe.
+            style: stack
+            cta:
+              target: /feature6
+              label: Secure
+              toggle: true
+              style: link
   - type: section
     width: 'wide,'
     spaceBefore: 'default,'
