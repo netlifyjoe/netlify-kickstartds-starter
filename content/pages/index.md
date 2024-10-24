@@ -47,7 +47,7 @@ sections:
       width: narrow
     components:
       - type: cta
-        headline: 'Need help?,'
+        headline: Need help?
         sub: >-
           Reach out to us and the community for any questions, or for the case
           you ran into trouble. **We're on Discord, join us!**,
