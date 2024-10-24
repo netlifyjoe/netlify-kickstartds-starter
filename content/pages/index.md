@@ -55,7 +55,7 @@ sections:
       width: unset
       align: center
       gutter: default
-      mode: tile
+      mode: list
       tileWidth: default
     buttons: []
     components:
