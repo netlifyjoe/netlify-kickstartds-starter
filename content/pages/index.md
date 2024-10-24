@@ -38,27 +38,6 @@ sections:
           Learn more about this starter, and the the speed & scalability
           provided by our headless CMS powered websites.
   - type: section
-    width: default
-    style: default
-    backgroundColor: default
-    spotlight: 'false'
-    spaceBefore: default
-    spaceAfter: default
-    inverted: false
-    headerSpacing: false
-    headline:
-      text: Happy Customers Showcases
-      large: false
-      width: unset
-      sub: We can create something shining for you too!
-    content:
-      width: unset
-      align: center
-      gutter: default
-      mode: tile
-      tileWidth: default
-    buttons: []
-  - type: section
     width: 'wide,'
     spaceBefore: 'default,'
     spaceAfter: 'default,'
