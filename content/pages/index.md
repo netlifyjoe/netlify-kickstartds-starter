@@ -41,7 +41,7 @@ sections:
     width: default
     style: default
     backgroundColor: default
-    spotlight: false
+    spotlight: 'false'
     spaceBefore: default
     spaceAfter: default
     inverted: false
