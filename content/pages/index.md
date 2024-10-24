@@ -39,7 +39,7 @@ sections:
           provided by our headless CMS powered websites.
   - type: section
     width: wide
-    style: default
+    style: verticalGradient
     backgroundColor: default
     spotlight: false
     spaceBefore: default
