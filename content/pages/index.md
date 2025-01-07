@@ -60,6 +60,28 @@ sections:
       tileWidth: default
     buttons: []
   - type: section
+    width: max
+    style: default
+    backgroundColor: default
+    spotlight: false
+    spaceBefore: default
+    spaceAfter: default
+    inverted: false
+    headerSpacing: false
+    headline:
+      text: Happy Customers Showcases
+      large: false
+      width: unset
+      align: center
+      sub: We can create something shining for you too!
+    content:
+      width: unset
+      align: center
+      gutter: default
+      mode: default
+      tileWidth: default
+    buttons: []
+  - type: section
     width: wide
     style: ''
     backgroundColor: default
